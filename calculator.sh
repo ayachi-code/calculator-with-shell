@@ -30,13 +30,8 @@ function min() {
 }
 
 
-echo "Type een getal"
-read getal1
-echo "type een getal2"
-read getal2
-echo "type de conditie"
-read con
-
+echo "Type de som "
+read getal1 con getal2
 
 plus
 keer
